@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head><title>Knop Voor Naar Knoppagina</title></head>
+<head><title>Knoppen</title></head>
     <body>
-    <button><a href="file:///C:/Users/runar.maes/OneDrive%20-%20Heilig%20Graf%20Turnhout/Documents/Html/Knoppenpagina.html">Knop Naar Knoppagina</a></button>
+        <h2>Mijn knoppen</h2>
+        <button><a href="Index.html">Terug naar hoofdpagina</a></button>
+        <button><a href="Afbeeldingen.html">Afbeeldingenpagina</a></button>
     </body>
 </html>
