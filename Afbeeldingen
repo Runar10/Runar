@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>Afbeeldenpagina</title></head>    
+    <body>
+            <p>Afbeelding Isaac Kimeli, hij is mijn idool.</p>
+            <img src="https://images2.persgroep.net/rcs/foN0OffPIETpde0OtK_YSrtYBfQ/diocontent/160410333/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&quality=0.8" width ="250">
+            <p> Kimeli is een lang-afstandsloper en dit is een foto waar hij de Crosscup in Mol wint op 10/11/2019.</p> 
+            <p>De volgende foto is een foto van frietjes, één van mijn favoriete gerechten, na lasagne. </p>
+            <img src="https://static.nieuwsblad.be/Assets/Images_Upload/2018/11/29/d8ea91e2-f3c6-11e8-866a-f6e389081274_web_scale_0.35_0.35__.jpg?maxheight=460&maxwidth=638&scale=both" width ="250">
+            <p>De volgende foto is nog een idool van mij, ook een langloper, Bashir Abdi.</p>
+            <img src="https://images2.persgroep.net/rcs/Fvxm31KR1pj4K5DlchGzl1qCYzk/diocontent/129763629/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8" width ="250">
+            <p>Abdi werd tweede op het Europese Kampioenschap van atletiek op de 10.000 meter.</p>
+    </body>
+</html>
